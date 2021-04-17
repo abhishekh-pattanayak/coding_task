@@ -14,5 +14,5 @@ Assumptions & notes : 
 ### Solution Notes:
 run script: `python main.py`
 
-sample_input.txt: it has a sample input of 20 tweets. First line has number of lines to consider as tweets.
+sample_input.txt: it has a sample input of 20 tweets. First line has number of lines to consider as tweets.<br>
 sample_output.txt: it has a sample output for sample_input.txt
